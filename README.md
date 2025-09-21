@@ -20,9 +20,11 @@ The dataset was provided by Unified Mentor during my internship. It contains sup
 **- Highlights**
 
 🔹 Business Problem
+
 Difficulty in monitoring end-to-end supply chain performance, leading to inefficiencies in production, logistics, and supplier management.
 
 🔹 Goal of the Dashboard
+
 To provide a centralised view of supply chain KPIs such as order fulfilment, revenue, supplier performance, costs, and shipping times.
 
 **- Key Visuals**
@@ -44,3 +46,7 @@ To provide a centralised view of supply chain KPIs such as order fulfilment, rev
 - Helps identify top-performing products, suppliers, and shipping methods.
 - Highlights defect rates and lead times to improve customer satisfaction.
 - Supports data-driven decisions for optimising production and logistics.
+
+**- Screenshot of Dashboard**
+  
+  https://github.com/jayantibanik/Supply_Chain_Managment_Analysis/blob/main/Snapshot_of_Supply_Management_Dashboard.png
